@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+gTPV
+</name>
+</assembly>
+<members>
+<member name="M:gTPV.My.appApoyo.GetMultiplicadorIVA(System.Double)">
+ <summary>
+ Funcion que me obtiene el multiplicador del iva para un determinado iva
+ </summary>
+</member>
+<member name="T:gTPV.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:gTPV.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:gTPV.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:gTPV.My.Resources.Resources.admin_login_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:gTPV.My.Resources.Resources.g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:gTPV.frmCompras_SelectProv.ConfigureApp(System.String)">
+ <summary>Funcion para configurar el origen de datos</summary>
+</member>
+<member name="M:gTPV.frmPedidos_SelectCliente.ConfigureApp(System.String)">
+ <summary>Funcion para configurar el origen de datos</summary>
+</member>
+<member name="M:gTPV.frmPaneldeVentas_Facturar.ConfigureApp(System.String)">
+ <summary>Funcion para configurar el origen de datos</summary>
+</member>
+<member name="M:gTPV.frmArticulos.ConfigureApp(System.String,System.String)">
+ <summary>Funcion para preconfigurar el formulario</summary>
+</member>
+<member name="M:gTPV.frmCategorias.ConfigureApp(System.String,System.String)">
+ <summary>Funcion para preconfigurar el formulario</summary>
+</member>
+<member name="M:gTPV.frmTmpCajas.ConfigureApp(System.String,System.String)">
+ <summary>Funcion para preconfigurar el formulario</summary>
+</member>
+<member name="M:gTPV.frmClientes.ConfigureApp(System.String,System.String)">
+ <summary>Funcion para preconfigurar el formulario</summary>
+</member>
+<member name="M:gTPV.m_Shell.ConfigureApp(System.String,System.Boolean)">
+ <summary>Funcion para configurar el origen de datos</summary>
+</member>
+</members>
+</doc>
